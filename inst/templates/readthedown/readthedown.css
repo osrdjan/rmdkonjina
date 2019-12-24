@@ -171,7 +171,7 @@ html{
 body{
     background:#edf0f2;
     color:#404040;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Open Sans","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-weight:normal;
     margin:0;
     min-height:100%;
@@ -937,7 +937,7 @@ footer p{
     color:#fcfcfc;
     background:#1f1d1d;
     border-top:solid 10px #211103;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Open Sans","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
     z-index:400;
     padding:12px;
@@ -1046,7 +1046,7 @@ h2.footnotes{
 .footnum, .footref{
     color: #2980b9;
     font-size: 170%;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Open Sans","proxima-nova","Helvetica Neue",Arial,sans-serif;
 }
 
 .footnum:before, .footref:before{
@@ -1060,7 +1060,7 @@ h2.footnotes{
 .footpara {
     color: #999;
     font-size: 90%;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Open Sans","proxima-nova","Helvetica Neue",Arial,sans-serif;
     padding-bottom: 8px;
     padding-left: 16px;
     padding-right: 16px;
