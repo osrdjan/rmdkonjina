@@ -18,6 +18,26 @@
   font-weight: 400;
   src: url(fonts/SF-Pro-Display-RegularItalic.otf) format('opentype');
 }
+
+@font-face {
+  font-family: 'SF Mono', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SF-Mono-Regular.otf) format('opentype');
+}
+@font-face {
+  font-family: 'SF Mono', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/SF-Mono-Bold.otf) format('opentype');
+}
+@font-face {
+  font-family: 'SF Mono', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  src: url(fonts/SF-Mono-RegularItalic.otf) format('opentype');
+}
+
 @font-face {
   font-family: 'Roboto Slab';
   font-style: normal;
@@ -454,7 +474,7 @@ code{
 }
 
 #content pre code {
-    font-family:Monaco,Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L","Courier New",Courier,monospace;
+    font-family:"SF Mono",Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L","Courier New",Courier,monospace;
     border: none;
     background: none;
     font-size: 100%;
